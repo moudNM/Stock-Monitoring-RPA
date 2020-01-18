@@ -1,0 +1,9 @@
+﻿Ticker,Company,Stock Exchange,Buy Price,Date of Purchase,Reason for purchasing stock
+MSFT,Microsoft Corporation,NASDAQ,157.35,20/12/2019,Strong stock
+PCG,PG&E,NYSE,10.45,8/1/2020,Uptrend
+DXC,DXC,NYSE,35.57,9/1/2020,Buy low
+Z74,Singtel,SGX,3.27,14/1/2020,Buy low
+C38U,CapitaMall Trust,SGX,2.53,13/1/2020,Highest change
+5WV,AsiaPhos,SGX,0.021,14/1/2020,Highest percent change
+NVDA,Nvidia Corp,NASDAQ,239.76,8/1/2020,Uptrend
+BBBY,Bed Bath and Beyond,NASDAQ,16.6,7/1/2020,Uptrend
